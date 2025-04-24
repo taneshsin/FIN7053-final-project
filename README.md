@@ -23,9 +23,8 @@ Key features:
 
 ## 📂 Repository Structure  
 ```
-FIN7053-final-project/        # Root contains README.md & .gitignore
-├── code/                     # Backtest and analysis scripts
-│   └── mean_reversion_strategy_FIN7053.py
+FIN7053-final-project/        # Root contains README.md
+├──  mean_reversion_strategy_FIN7053.py    # Backtest and analysis scripts
 ├── results/                  # Output CSVs & charts
 │   ├── capacity_1pct.csv
 │   ├── cost_sensitivity.csv
@@ -35,13 +34,12 @@ FIN7053-final-project/        # Root contains README.md & .gitignore
 │   ├── sharpe_heatmap.png
 │   └── oos_histogram.png
 ├── slides/                   # Final presentation deck
-│   └── Mean-Reversion-Swing-Strategy-on-the-Magnificent-Seven.pptx
+│   └── Mean-Reversion-Swing-Strategy-FIN7053.pptx
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-└── .gitignore                # Excludes __pycache__, data, etc.
 ```
 
-**Slide Preview:** [Presentation deck](slides/Mean-Reversion-Swing-Strategy-on-the-Magnificent-Seven.pptx)
+**Slide Preview:** [Presentation deck](slides/Mean-Reversion-Swing-Strategy-FIN7053.pptx)
 
 ---
 
